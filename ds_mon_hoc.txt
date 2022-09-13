@@ -1,0 +1,507 @@
++-----------+-------------------------------------------------------------------------+
+|   Mã môn  |                                 Tên môn                                 |
++-----------+-------------------------------------------------------------------------+
+| 61FRE31C1 |                           Thực hành tiếng 1C1                           |
+| 61FIS2WHI |                             Lịch sử Thế giới                            |
+| 61FRE43C1 |                           Thực thành tiếng 3C1                          |
+| 61ITA22B1 |                           Thực hành tiếng 2B1                           |
+| 61POR4ITO |                                 Kiến tập                                |
+| 62FIT3SAD |                       Phân tích thiết kế hệ thống                       |
+| 62CHI3CCS |                         Đất nước học Trung Quốc                         |
+| 61GER4TEA |                            Kiểm tra, đánh giá                           |
+| 61ACC3FA2 |                           Kế toán tài chính 2                           |
+| 61FIT3SS1 |                               Chuyên đề 1                               |
+| 62KOR23B1 |                           Thực hành tiếng 3B1                           |
+| 62KOR4PTI |                   Biên - Phiên dịch chuyên đề báo chí                   |
+| 61JAP23B1 |                           Thực hành tiếng 3B1                           |
+| 62ITA33C1 |                           Thực hành tiếng 3C1                           |
+| 62THM2TOL |                            Pháp luật du lịch                            |
+| 61PML1ML1 |            Những Nguyên lý Cơ bản của Chủ nghĩa Mác - Lênin 1           |
+| 61PML3RCM |              Đường lối Cách mạng của Đảng Cộng sản Việt Nam             |
+| 62ITA3ITI |                         Nhập môn Biên-Phiên dịch                        |
+| 61SPA22B2 |                           Thực hành tiếng 2B2                           |
+|  FIN1FOF  |                            Tài chính căn bản                            |
+| 61FRE3ITO |                       Nhập môn Du lịch tiếng Pháp                       |
+| 61LAW2BLW |                               Luật Kinh tế                              |
+| 61KOR4KOE |                            Tiếng Hàn kinh tế                            |
+| 61PED1MDR |                    Chạy cự ly trung bình (800m-1500m)                   |
+| 61ENG3TAE |                     Thẩm định và hiệu đính bản dịch                     |
+| 61FIS3INE |                             Kinh tế Quốc tế                             |
+| 61VIP2HAS |                                Hà Nội học                               |
+| 61RUS3ITI |                         Nhập môn Biên-Phiên dịch                        |
+| 61MME2PMK |                           Nguyên lý Marketing                           |
+| 61FRE23B1 |                           Thực hành tiếng 3B1                           |
+| 61KOR4TP2 |                               Biên dịch 2                               |
+| 61JAP4JOW |                           Tiếng Nhật Văn phòng                          |
+| 61FIS4GED |                            Giới và Phát triển                           |
+| 62ITA4BUI |                         Tiếng Italia Thương mại                         |
+| 61POR3FL2 |                    Ngoại ngữ 2 - tiếng Bồ Đào Nha A2                    |
+| 61KOR33C1 |                           Thực hành tiếng 3C1                           |
+| 61DES4GED |                            Giới và Phát triển                           |
+|  61SPA1A1 |                            Thực hành tiếng A1                           |
+| 61MME4DMS |                   Marketing kỹ thuật số và Mạng xã hội                  |
+| 61ITA4TMK |                            Marketing Du lịch                            |
+| 61THM2ITO |                             Nhập môn du lịch                            |
+| 61GER23B2 |                           Thực hành tiếng 3B2                           |
+| 61JAP4LCD |                 Thiết kế chương trình đào tạo ngoại ngữ                 |
+| 61VNS21B2 |                         Thực hành tiếng Việt 1B2                        |
+| 61FRE4IN2 |                                Thực tập 2                               |
+| 61FIT2AIN |                             Trí tuệ Nhân tạo                            |
+| 61FRE3FT1 |                           Tiếng Pháp Du lịch 1                          |
+| 62CHI3LEX |                       Từ vựng học tiếng Trung Quốc                      |
+| 61ENG2RS3 |                            Kỹ năng đọc 3 (B2)                           |
+| 61FIN3FMO |                            Mô hình tài chính                            |
+| 61CHI4TP3 |                               Biên dịch 3                               |
+| 61POR3PHC |                      Lịch sử và Văn hóa Bồ Đào Nha                      |
+| 61JAP3CCS |                       Đất nước và Văn hóa Nhật Bản                      |
+| 61SPA21B2 |                           Thực hành tiếng 1B2                           |
+| 61SPA23B1 |                           Thực hành tiếng 3B1                           |
+| 61JAP3IBJ |                      Tiếng Nhật Thương mại Quốc tế                      |
+| 62KOR3KAL |                             Lý thuyết tiếng                             |
+| 61VNS3TIS |                       Nghiệp vụ Biên -  Phiên dịch                      |
+| 61ENG4TP3 |                               Biên dịch 3                               |
+| 61GER3ITI |                        Nhập môn Biên - Phiên dịch                       |
+| 61ENG2LS3 |                           Kỹ năng nghe 3 (B2)                           |
+| 61COC3COT |                          Lý thuyết Truyền thông                         |
+| 61CHI4ANC |                         Tiếng Trung Quốc cổ đại                         |
+| 61RUS3LI2 |                              Văn học Nga 2                              |
+| 61CHI4ISI |                         Nhập môn Dịch song song                         |
+| 61MKT2PMK |                           Nguyên lý Marketing                           |
+| 61VNS3SRS |                Phương pháp Học tập và Nghiên cứu khoa học               |
+| 61CHI4TRT |                       Biên dịch chuyên đề Du lịch                       |
+| 61PML1ML2 |            Những Nguyên lý Cơ bản của Chủ nghĩa Mác - Lênin 2           |
+| 61JAP3FL1 |                     Ngoại ngữ 2 - tiếng Nhật Bản A1                     |
+| 61CHI4LTR |                       Biên dịch chuyên đề Văn học                       |
+| 61VNS3TI1 |                      Thực hành Biên -  Phiên dịch 1                     |
+| 62CHI4BUC |                       Tiếng Trung Quốc Thương mại                       |
+| 61ITA3DIA |                           Phân tích Diễn ngôn                           |
+| 61KOR4COL |                          Ngôn ngữ học Đối chiếu                         |
+| 61GER4ERC |                             Lỗi và Chữa lỗi                             |
+| 61JAP3IJL |                          Nhập môn Nhật ngữ học                          |
+|  FIN3CSF  |                     Nghiên cứu tình huống tài chính                     |
+| 61CHI3FL2 |                    Ngoại ngữ 2 - tiếng Trung Quốc A2                    |
+| 61PED1FF1 |                             Bóng đá cơ bản 1                            |
+| 61ITA3LEI |                          Tiếng Italia Pháp luật                         |
+| 61FIS3IPT |                    Nhập môn các Học thuyết Chính trị                    |
+| 61CHI4COL |                          Ngôn ngữ học Đối chiếu                         |
+| 61SPA4IP2 |                           Thực hành dịch nói 2                          |
+| 62ITA4PMK |                        Nguyên lý cơ bản Marketing                       |
+| 61CHI4GR2 |                       Ngữ pháp tiếng Trung Quốc 2                       |
+| 61FIS2CPS |                          Chính trị học So sánh                          |
+| 61RUS3LEX |                          Từ vựng học tiếng Nga                          |
+| 61COC3RIC |            Phương pháp Nghiên cứu khoa học trong Truyền thông           |
+| 61JAP4BUC |                            Thư tín Thương mại                           |
+| 61POR22B1 |                           Thực hành tiếng 2B1                           |
+| 62KOR21B2 |                           Thực hành tiếng 1B2                           |
+| 61ENG3TP1 |                               Biên dịch 1                               |
+| 61CHI21B2 |                           Thực hành tiếng 1B2                           |
+| 61CHI4TEC |                 Biên dịch Chuyên đề Kinh tế - Thương mại                |
+| 61KOR3KAL |                             Lý thuyết tiếng                             |
+| 61POR4IP2 |                           Thực hành dịch nói 2                          |
+| 61CHI3CLI |                      Trích giảng Văn học Trung Quốc                     |
+| 61SPA3BUS |                       Tiếng Tây Ban Nha Thương mại                      |
+| 61MME3CCO |                        Truyền thông doanh nghiệp                        |
+| 61ECO2MIC |                              Kinh tế vi mô                              |
+| 61COC3CW1 |            Thiết kế và Sản xuất Sản phẩm Truyền thông Cơ bản            |
+| 62THM3HMG |                            Quản trị khách sạn                           |
+| 61DES2HCD |                       Vốn con người và Phát triển                       |
+| 61GER3FL1 |                        Ngoại ngữ 2 - tiếng Đức A1                       |
+| 61JAP3MAC |                         Kinh tế Vĩ mô tiếng Nhật                        |
+| 62FIT3SEN |                            Công nghệ phần mềm                           |
+| 61ENG2WS3 |                           Kỹ năng viết 3 (B2)                           |
+|  FIN3001  |                          Chứng khoán phái sinh                          |
+| 61FRE4ITS |                    Lược dịch - Dịch Tổng hợp văn bản                    |
+| 61FRE4TOP |                            Điều hành Du lịch                            |
+| 61VNS22B2 |                         Thực hành tiếng Việt 2B2                        |
+| 61THA3FL1 |                      Ngoại ngữ 2- tiếng Thái Lan A1                     |
+| 61JAP4TP3 |                          Thực hành dịch viết 3                          |
+| 61GER4TEC |                Biên dịch chuyên ngành Kinh tế, Thương mại               |
+| 61SPA4TP2 |                          Thực hành dịch viết 2                          |
+| 61CHI3LEX |                       Từ vựng học tiếng Trung Quốc                      |
+| 61JAP4TRT |                        Dịch chuyên ngành Du lịch                        |
+| 62KOR4INT |                                 Thực tập                                |
+| 61PML1POE |                      Kinh tế Chính trị Mác - Lênin                      |
+| 61ENG3LEC |                      Văn học các nước nói tiếng Anh                     |
+| 61CHI3IP1 |                               Phiên dịch 1                              |
+| 61COC4CTC |                      Xu hướng Truyền thông Hiện đại                     |
+| 61COC2FCS |                   Tiếng Pháp chuyên ngành Truyền thông                  |
+| 62KOR4KEC |                            Tiếng Hàn Kinh tế                            |
+| 62ITA3HIA |                        Lịch sử nghệ thuật Italia                        |
+| 61THM3HMG |                            Quản trị khách sạn                           |
+| 61ENG4COL |                          Ngôn ngữ học Đối chiếu                         |
+| 61ENG4SCD |               Thiết kế và Xây dựng Chương trình Giảng dạy               |
+| 61CHI3TP1 |                               Biên dịch 1                               |
+| 61COC4EMA |                           Tiếp thị Trực tuyến                           |
+| 61FIT3DBS |                              Cơ sở Dữ liệu                              |
+| 62ITA4ITG |              Tiếng Italia trong nghiệp vụ hướng dẫn du lịch             |
+| 61BNK4CLM |                  Đánh giá tín dụng và quản trị cho vay                  |
+| 61GER4IP2 |                               Phiên dịch 2                              |
+| 61THA3FL2 |                      Ngoại ngữ 2- tiếng Thái Lan A2                     |
+| 61VNS3VCU |                       Phong tục, Tập quán Việt Nam                      |
+| 62ITA21B1 |                           Thực hành tiếng 1B1                           |
+| 61MKT4STM |                           Marketing chiến lược                          |
+| 61CHI3CCS |                         Đất nước học Trung Quốc                         |
+|  ECM1001  |                Kinh tế học và phân tích dữ liệu tài chính               |
+| 62KOR3ITI |                         Nhập môn Biên-Phiên dịch                        |
+| 61SFL3FL1 |                              Ngoại ngữ 2_A1                             |
+| 61CHI4TRM |                             Quản trị lữ hành                            |
+| 62ITA4TEC |                  Dịch chuyên ngành Kinh tế - Thương mại                 |
+| 62ITA4INT |                                 Thực tập                                |
+| 61KOR4PIT |                    Biên phiên dịch chuyên đề Báo chí                    |
+| 61CHI4TGS |                       Nghiệp vụ Hướng dẫn Du lịch                       |
+| 61FIS2GSO |                           Xã hội học Đại cương                          |
+| 61ITA21B1 |                           Thực hành tiếng 1B1                           |
+| 61ENG3FL1 |                        Ngoại ngữ 2 - tiếng Anh A1                       |
+| 61ACC2POA |                            Nguyên lý kế toán                            |
+| 61JAP3GES |                          Giáo dục học đại cương                         |
+| 61MGT4SMT |                           Quản trị chiến lược                           |
+| 61SPA4SIT |                                Lược dịch                                |
+| 61POR4TP2 |                          Thực hành dịch viết 2                          |
+| 61VNS2ITI |                        Nhập môn Biên - Phiên dịch                       |
+| 61CHI4LET |                      Biên dịch chuyên đề Pháp luật                      |
+| 61KOR22B2 |                           Thực hành tiếng 2B2                           |
+| 61ENG3FL2 |                        Ngoại ngữ 2 - tiếng Anh A2                       |
+| 62CHI21B2 |                           Thực hành tiếng 1B2                           |
+| 61FRE2FFC |                             Văn hóa Pháp ngữ                            |
+| 61VIP2VIU |                        Tiếng Việt trong Hành chức                       |
+| 62CHI3IP2 |                               Phiên dịch 2                              |
+| 61FIT4ATI |                 Các chủ đề mới trong Công nghệ thông tin                |
+| 61VNS3LTE |                      Pháp luật Kinh tế - Thương mại                     |
+| 61FRE3ITI |                         Nhập môn Biên-Phiên dịch                        |
+| 61ENG2SS3 |                            Kỹ năng nói 3 (B2)                           |
+| 61RUS3TP1 |                          Thực hành dịch viết 1                          |
+| 61CHI3CT1 |                        Tiếng Trung Quốc Du lịch 1                       |
+| 61DES2CUA |                          Nhân chủng học Văn hóa                         |
+| 61PML1PML |                          Triết học Mác – Lênin                          |
+| 61DES2GSO |                           Xã hội học Đại cương                          |
+| 61FIS4IPM |                          Quản lý Dự án Quốc tế                          |
+| 61PED1AB1 |                           Thể dục nhịp điệu 1                           |
+| 61GRA4INT |                           Thực tập tốt nghiệp                           |
+| 62ITA21B2 |                           Thực hành tiếng 1B2                           |
+| 61FIT4EIS |                     Hệ thống Thông tin Doanh nghiệp                     |
+| 61VNS3TGS |                       Nghiệp vụ Hướng dẫn Du lịch                       |
+|  MKT3MRE  |                          Nghiên cứu thị trường                          |
+| 61FIS4REM |                          Phương pháp Nghiên cứu                         |
+| 61SPA3ITI |                        Nhập môn Biên - Phiên dịch                       |
+| 61BNK3BMA |                            Quản trị ngân hàng                           |
+| 62FIT2POP |                          Nguyên lý Hệ điều hành                         |
+| 61JAP3LPM |       Thiết kế giáo án và Phát triển tài liệu giảng dạy ngoại ngữ       |
+| 62FIT2PR1 |                               Lập trình 1                               |
+| 61ENG4CMP |                          Chuyên đề Hướng nghiệp                         |
+| 61POR21B2 |                           Thực hành tiếng 1B2                           |
+| 61GER4SAS |                        Đất nước học Áo - Thụy Sĩ                        |
+| 62ITA22B1 |                           Thực hành tiếng 2B1                           |
+| 62FIT2PCO |                            Nguyên lý Máy tính                           |
+| 61VNS13A1 |                         Thực hành tiếng Việt 3A1                        |
+| 61PED1BB1 |                                Bóng rổ 1                                |
+| 61FIT2POP |                          Nguyên lý Hệ điều hành                         |
+| 61ENG3MIT |                             Giảng tập Vi mô                             |
+| 61FIT3SAD |                       Phân tích Thiết kế Hệ thống                       |
+| 61GER3FL2 |                        Ngoại ngữ 2 - tiếng Đức A2                       |
+| 61THM4HET |                              Du lịch di sản                             |
+| 61VNS11A2 |                         Thực hành tiếng Việt 1A2                        |
+| 61FRE4LIT |                             Văn học Pháp ngữ                            |
+| 61PML2HVC |                      Lịch sử Đảng Cộng sản Việt Nam                     |
+| 62CHI3ALS |                         Thực hành tiếng nâng cao                        |
+| 61DES3FDE |                         Tài chính và Phát triển                         |
+| 61KOR4STI |                       Biên phiên dịch chuyên ngành                      |
+| 61GER4TP2 |                               Biên dịch 2                               |
+| 61THM4TOP |                              Điều hành tour                             |
+| 61MME4ADC |                     Quảng cáo và Sáng tạo quảng cáo                     |
+| 61VNS4VLE |                          Từ vựng học tiếng Việt                         |
+| 61ENG4CES |                 Chuyên đề Văn hóa các nước nói tiếng Anh                |
+| 61CHI4INT |                                 Thực tập                                |
+| 61ENG3LEX |                          Từ vựng học tiếng Anh                          |
+| 61SFL3FL2 |                              Ngoại ngữ 2_A2                             |
+| 61JAP3FL2 |                     Ngoại ngữ 2 - tiếng Nhật Bản A2                     |
+| 61THM3TMK |                            Marketing du lịch                            |
+| 62ENG3FL3 |                            Ngoại ngữ 2 - 1B1                            |
+| 61MKT3BRA |                     Xây dựng và quản trị thương hiệu                    |
+|  OBU2FFA  |                            Kế toán tài chính                            |
+|  61ESP1A2 |                            Thực hành tiếng A2                           |
+| 61MME4B2B |                  Marketing tới khách hàng doanh nghiệp                  |
+| 61JAP4MET |                       Dịch Văn bản Tin tức Báo chí                      |
+| 61PED1PP1 |                                Bóng bàn 1                               |
+| 62CHI3HCL |                        Lịch sử Văn học Trung Quốc                       |
+| 61DES2PAD |                         Chính trị và Phát triển                         |
+|  MKT3IMK  |                            Marketing quốc tế                            |
+| 62ITA3LI1 |                          Ngôn ngữ học Italia 1                          |
+| 61ITA4TP2 |                               Biên dịch 2                               |
+| 61FRE22B1 |                           Thực hành tiếng 2B1                           |
+| 61POR4ITS |                    Lược dịch - Dịch tổng hợp văn bản                    |
+|  BUS1BUE  |                     Nghiên cứu các vấn đề về kinh tế                    |
+|  MKT1MDP  |                            Marketing căn bản                            |
+| 62FIT3SS1 |                               Chuyên đề 1                               |
+| 61ENG3TIP |                       Chuyên đề Biên - Phiên dịch                       |
+| 61FIS3EMC |                  Quản lý Môi trường và Biến đổi Khí hậu                 |
+| 61FIS2MIC |                              Kinh tế Vi mô                              |
+| 61SPA3ITO |                             Nhập môn Du lịch                            |
+| 61FIN4FDI |                       Công cụ tài chính phái sinh                       |
+| 61CHI22B1 |                           Thực hành tiếng 2B1                           |
+| 61SPA1SRS |                Phương pháp Học tập và Nghiên cứu khoa học               |
+| 61FIT2PCO |                            Nguyên lý Máy tính                           |
+| 61FIS3BCO |                           Giao tiếp Kinh doanh                          |
+| 61POR4TIP |                              Chuyên đề dịch                             |
+| 62ITA3DIA |                           Phân tích diễn ngôn                           |
+| 61VIP2IVL |                          Nhập môn Việt ngữ học                          |
+| 61FIS3INR |                             Quan hệ Quốc tế                             |
+| 61MGT3LEO |                       Lãnh đạo trong doanh nghiệp                       |
+| 61FRE3TP2 |                          Thực hành dịch viết 2                          |
+| 61ENG3CSC |                      Văn hóa các nước nói tiếng Anh                     |
+| 61KOR21B2 |                           Thực hành tiếng 1B2                           |
+| 61VNS3VC2 |                         Cơ sở Văn hóa Việt Nam 2                        |
+| 61ITA3ICC |                        Văn hóa – Văn minh Italia                        |
+| 62CHI4LET |                      Biên dịch chuyên đề Pháp luật                      |
+| 61THM4REV |                             Quản lý doanh số                            |
+| 61FIT1CSK |                       Ứng dụng Công nghệ thông tin                      |
+| 61RUS4IP2 |                           Thực hành dịch nói 2                          |
+| 61MGT2ITM |                               Quản trị học                              |
+| 62KOR3CCS |                               Đất nước học                              |
+| 61ITA4TEC |                  Dịch chuyên ngành Kinh tế - Thương mại                 |
+| 61COC21B2 |                           Thực hành tiếng 1B2                           |
+| 61RUS4TP2 |                          Thực hành dịch viết 2                          |
+| 62ITA3TAN |                            Phân tích văn bản                            |
+| 61KOR3FL1 |                     Ngoại ngữ 2 - tiếng Hàn Quốc A1                     |
+| 62FIT2DMA |                               Toán rời rạc                              |
+| 61CHI4CLC |                      Ngôn ngữ và Văn hóa Trung Quốc                     |
+| 61PED1OMR |                                Chạy 100m                                |
+| 61JAP4JAT |                            Tiếng Nhật Du lịch                           |
+| 61ITA3FL2 |                      Ngoại ngữ 2 - tiếng Italia A2                      |
+| 62FIT3WPR |                              Lập trình Web                              |
+| 61ITA33C1 |                           Thực hành tiếng 3C1                           |
+| 61JAP3ITI |                         Nhập môn Biên-Phiên dịch                        |
+| 61MGT4ENP |                               Khởi nghiệp                               |
+| 61FIT3JSD |                         Phát triển Phần mềm Java                        |
+| 61VNS23B1 |                         Thực hành tiếng Việt 3B1                        |
+| 62KOR4IT2 |                               Phiên dịch 2                              |
+| 61POR3PHP |                           Ngữ âm và Âm vị học                           |
+| 61ENG3PAP |                       Ngữ âm - Âm vị học tiếng Anh                      |
+| 61JAP4TEA |               Kiểm tra và đánh giá trong dạy học ngoại ngữ              |
+| 61FIN3FSY |                            Hệ thống tài chính                           |
+| 61SPA3FL1 |                    Ngoại ngữ 2 - tiếng Tây Ban Nha A1                   |
+| 61RUS21B2 |                           Thực hành tiếng 1B2                           |
+| 61COC3TOC |                    Lý thuyết Tổ chức và Doanh nghiệp                    |
+| 61SPA4RET |                    Hiệu đính và Biên tập Văn bản dịch                   |
+| 61FRE4CTO |                      Văn hóa và Du lịch tiếng Pháp                      |
+| 61GER21B2 |                           Thực hành tiếng 1B2                           |
+| 61FIT4MLA |                           Học máy và Ứng dụng                           |
+| 62KOR22B2 |                           Thực hành tiếng 2B2                           |
+|  MKT1ADD  |                    Marketing trong thời đại công nghệ                   |
+| 61RUS4SYN |                          Cú pháp học tiếng Nga                          |
+| 61GER1SRS |                     Phương pháp Nghiên cứu khoa học                     |
+| 61JAP21B2 |                           Thực hành tiếng 1B2                           |
+| 61THM3TPM |                          Quản trị dự án du lịch                         |
+| 61MKT3COB |                            Hành vi khách hàng                           |
+| 61FIN3CFI |                          Tài chính doanh nghiệp                         |
+| 61PML3HCM |                           Tư tưởng Hồ Chí Minh                          |
+| 62CHI4CHT |                         Tiếng Trung Quốc Du lịch                        |
+| 61CHI3FL1 |                    Ngoại ngữ 2 - tiếng Trung Quốc A1                    |
+| 61KOR3ITI |                         Nhập môn Biên-Phiên dịch                        |
+| 61JAP4ADT |                            Dịch viết Nâng cao                           |
+| 61CHI3HCL |                        Lịch sử Văn học Trung Quốc                       |
+| 61THM3SUT |                             Du lịch bền vững                            |
+|  62ITA1A1 |                            Thực hành tiếng A1                           |
+| 61ITA4IP2 |                               Phiên dịch 2                              |
+| 61CHI4IP3 |                               Phiên dịch 3                              |
+| 61MGT3HRM |                             Quản trị nhân sự                            |
+| 61FIT3DSY |                            Hệ thống Phân tán                            |
+| 61THM4DMK |                            Marketing điểm đến                           |
+| 61FIT3EBU |                            Kinh doanh Điện tử                           |
+| 61SPA4STA |            Tiếng Tây Ban Nha cho Nhân viên văn phòng du lịch            |
+| 61GER4RMT |             Phương pháp Nghiên cứu trong Giảng dạy Ngoại ngữ            |
+| 61FRE3IP2 |                           Thực hành dịch nói 2                          |
+| 61VIP1IVC |                          Cơ sở Văn hóa Việt Nam                         |
+| 62MGT2ITM |                               Quản trị học                              |
+| 61ITA4TOG |                              Địa lý Du lịch                             |
+| 61COC22B2 |                           Thực hành tiếng 2B2                           |
+| 61PML2GEL |                           Pháp luật Đại cương                           |
+| 62CHI22B2 |                           Thực hành tiếng 2B2                           |
+| 62FIT2RES |                     Phương pháp Nghiên cứu khoa học                     |
+| 61DES3DEE |                            Kinh tế Phát triển                           |
+| 61JAP22B2 |                           Thực hành tiếng 2B2                           |
+| 62FIT3AIN |                             Trí tuệ nhân tạo                            |
+| 61ENG3INR |                           Nhập môn Nghiên cứu                           |
+| 62CHI4INT |                                 Thực tập                                |
+| 61SPA3LEX |                      Từ vựng học tiếng Tây Ban Nha                      |
+| 61COC3MAM |                    Phương tiện Truyền thông Đại chúng                   |
+| 61COC3PMK |                           Nguyên lý Marketing                           |
+| 61DES3INR |                             Quan hệ Quốc tế                             |
+| 61VNS4TEV |                             Kinh tế Việt Nam                            |
+| 61FRE3FL1 |                       Ngoại ngữ 2 - tiếng Pháp A1                       |
+| 61ITA3GHI |                         Địa lý và Lịch sử Italia                        |
+| 61FRE3FL2 |                       Ngoại ngữ 2 - tiếng Pháp A2                       |
+| 62FIT2CAL |                               Toán cao cấp                              |
+| 61FIT3NPR |                              Lập trình mạng                             |
+| 61FIS3PFI |                              Tài chính công                             |
+| 61KOR4IP2 |                               Phiên dịch 2                              |
+| 61ENG3ITI |                        Nhập môn Biên - Phiên dịch                       |
+| 61ENG3ELS |                          Chuyên đề Văn học Anh                          |
+| 61ITA3LI1 |                          Ngôn ngữ học Italia 1                          |
+| 61POR4MOS |                          Từ pháp và Cú pháp học                         |
+|  BUS1001  |                  Khái niệm phân tích dữ liệu tài chính                  |
+| 61FIT2RES |                     Phương pháp Nghiên cứu khoa học                     |
+| 61FIT2PR1 |                               Lập trình 1                               |
+| 62ENG3FL4 |                            Ngoại ngữ 2 - 2B1                            |
+|  61ITA1A1 |                            Thực hành tiếng A1                           |
+| 61ITA1RES |                     Phương pháp Nghiên cứu khoa học                     |
+| 61MME3SMC |             Marketing dịch vụ và Quản trị quan hệ khách hàng            |
+| 61DES2MIC |                              Kinh tế Vi mô                              |
+| 61POR33C1 |                           Thực hành tiếng 3C1                           |
+| 61FIT2DMA |                               Toán rời rạc                              |
+| 61RUS4TGS |                       Nghiệp vụ hướng dẫn du lịch                       |
+| 62KOR3AUT |                              Dịch nghe nhìn                             |
+| 61CHI3ITI |                         Nhập môn Biên-Phiên dịch                        |
+| 61RUS31C1 |                           Thực hành tiếng 1C1                           |
+| 61JAP4TEC |                  Dịch chuyên ngành Kinh tế - Thương mại                 |
+| 61COC2PCO |                         Tâm lý học Truyền thông                         |
+| 61MME3SM1 |                 Chuyên đề truyền thông đa phương tiện 1                 |
+|  BUS1SBY  |                           Chiến lược bền vững                           |
+| 61VNS3VTE |                     Tiếng Việt Kinh tế -  Thương mại                    |
+| 61FIT4SPM |                          Quản lý Dự án Phần mềm                         |
+| 61KOR23B1 |                           Thực hành tiếng 3B1                           |
+| 62THM2ITO |                             Nhập môn du lịch                            |
+| 61MKT4B2B |                  Marketing tới khách hàng doanh nghiệp                  |
+| 61GER4LMD |                      Phân tích và Thiết kế học liệu                     |
+| 61THM4TGS |                       Nghiệp vụ hướng dẫn du lịch                       |
+| 61COC4EMG |                           Truyền thông Sự kiện                          |
+| 61ITA4IT2 |                          Tiếng Italia Du lịch 2                         |
+| 61DES2IDS |                   Giới thiệu về Nghiên cứu phát triển                   |
+| 61VIP1INL |                          Dẫn luận Ngôn ngữ học                          |
+| 61RUS3WOF |                           Cấu tạo Từ tiếng Nga                          |
+| 61MKT3ADC |                     Quảng cáo và Sáng tạo quảng cáo                     |
+| 61RUS23B1 |                           Thực hành tiếng 3B1                           |
+| 61COC4BCD |                    Xây dựng và Phát triển Thương hiệu                   |
+| 61SPA3FL3 |                   Ngoại ngữ 2 - tiếng Tây Ban Nha 1B1                   |
+| 61PML2SCS |                        Chủ nghĩa Xã hội Khoa học                        |
+| 62ITA3ICC |                        Văn hóa – Văn minh Italia                        |
+| 62CHI3TP2 |                               Biên dịch 2                               |
+| 61FRE4CTS |  Giao tiếp trong Du lịch - Định hướng nghề Nhân viên Văn phòng Du lịch  |
+| 61POR23B1 |                           Thực hành tiếng 3B1                           |
+|  FIN3IPM  |                    Đầu tư và quản lý danh mục đầu tư                    |
+|  OBU2FMA  |                             Kế toán quản trị                            |
+| 61POR3ITI |                         Nhập môn Biên-Phiên dịch                        |
+| 61THM4ENT |                      Khởi nghiệp kinh doanh du lịch                     |
+| 61RUS3IP1 |                           Thực hành dịch nói 1                          |
+| 61CHI3ITO |                             Nhập môn du lịch                            |
+| 61ACC3VEA |                      Kế toán doanh nghiệp Việt Nam                      |
+| 61DES2DET |                           Lý thuyết Phát triển                          |
+| 62CHI4SYN |                       Cú pháp học tiếng Trung Quốc                      |
+| 61CHI4AUT |                              Dịch nghe nhìn                             |
+| 62MGT3HRM |                             Quản trị nhân sự                            |
+| 61THM3CRS |                           Hệ thống đặt giữ chỗ                          |
+| 61VNS3VC1 |                         Cơ sở Văn hóa Việt Nam 1                        |
+| 61CHI4HOM |                            Quản trị Khách sạn                           |
+| 61VNS12A1 |                         Thực hành tiếng Việt 2A1                        |
+| 61RUS32C1 |                           Thực hành tiếng 2C1                           |
+| 61GER34C1 |                           Thực hành tiếng 4C1                           |
+| 61MME2PCO |                         Tâm lý học truyền thông                         |
+| 61COC23B2 |                           Thực hành tiếng 3B2                           |
+| 61FIT4IPR |                          Xử lý ảnh và nhận dạng                         |
+| 62THM3TMK |                            Marketing du lịch                            |
+| 61FIT3CGR |                             Đồ họa Máy tính                             |
+| 61FIT3MUL |                              Đa phương tiện                             |
+| 61FRE4SUT |                       Du lịch Bền vững tiếng Pháp                       |
+| 61CHI3PHO |                       Ngữ âm học tiếng Trung Quốc                       |
+| 61SPA4AIS |                    Thực hành tiếng Tổng hợp Nâng cao                    |
+| 61MAT2MEB |            Toán cao cấp và ứng dụng trong kinh tế-kinh doanh            |
+| 61GER4ICP |    Giảng dạy kiến thức Đất nước học và Kỹ năng giao tiếp liên văn hóa   |
+| 61KOR3CCS |                               Đất nước học                              |
+| 61RUS4TOG |                              Địa lý du lịch                             |
+| 61FIS2CUA |                          Nhân chủng học Văn hóa                         |
+| 61SPA2PRO |                        Luyện âm tiếng Tây Ban Nha                       |
+| 62KOR4ATI |                        Biên - Phiên dịch nâng cao                       |
+| 61VNS2INL |                          Dẫn luận Ngôn ngữ học                          |
+| 61VNS23B2 |                         Thực hành tiếng Việt 3B2                        |
+| 61FIS3DEE |                            Kinh tế Phát triển                           |
+| 62CHI22B1 |                           Thực hành tiếng 2B1                           |
+| 61JAP4IBN |                       Đàm phán Thương mại quốc tế                       |
+| 61JAP4JAL | Chuyên đề Từ vựng tiếng Nhật: khai thác tri thức Hán Việt trong dạy học |
+|  MGT2IMG  |                           Quản trị học quốc tế                          |
+| 61GER3LI1 |                         Ngôn ngữ học tiếng Đức 1                        |
+| 62CHI3ITI |                         Nhập môn Biên-Phiên dịch                        |
+| 61ACC4AFS |                       Kiểm toán báo cáo tài chính                       |
+| 61POR3FL1 |                    Ngoại ngữ 2 - tiếng Bồ Đào Nha A1                    |
+| 61ITA3LI2 |                          Ngôn ngữ học Italia 2                          |
+| 61SPA4INT |                                 Thực tập                                |
+| 61STA3BES |              Thống kê ứng dụng trong kinh doanh và kinh tế              |
+|  MKT3SMK  |                           Chiến lược Marketing                          |
+| 61DES3GIS |                        Hệ thống Thông tin Địa lý                        |
+| 61VIP2BHC |                         Lược sử Văn hóa Việt Nam                        |
+| 62THM3PRM |                              Quản trị dự án                             |
+| 61ACC4FSA |                       Phân tích báo cáo tài chính                       |
+| 61VIP2VTS |                            Văn bản tiếng Việt                           |
+| 61JAP3MIC |                         Kinh tế Vi mô tiếng Nhật                        |
+| 61ITA3TAN |                            Phân tích Văn bản                            |
+| 61JAP3JTP |                        Lý luận dạy học tiếng Nhật                       |
+| 61SPA32C1 |                           Thực hành tiếng 2C1                           |
+| 62ITA4TP2 |                               Biên dịch 2                               |
+| 61ENG4GR2 |                         Ngữ pháp học tiếng Anh 2                        |
+| 61SPA4MIT |                               Du lịch MICE                              |
+| 61VNS3TOP |                       Nghiệp vụ Điều hành Du lịch                       |
+| 61ITA3FL1 |                      Ngoại ngữ 2 - tiếng Italia A1                      |
+| 61ENG4PLT |                   Tâm lý học trong Giảng dạy Ngôn ngữ                   |
+| 61ITA3ITI |                         Nhập môn Biên-Phiên dịch                        |
+| 61COC4IN2 |                                Thực tập 2                               |
+| 61JAP4JBC |                       Văn hóa kinh doanh Nhật Bản                       |
+| 62ITA3LI2 |                          Ngôn ngữ học Italia 2                          |
+| 61JAP23B2 |                           Thực hành tiếng 3B2                           |
+| 61KOR3FL2 |                     Ngoại ngữ 2 - tiếng Hàn Quốc A2                     |
+| 61CHI4SUT |                             Du lịch bền vững                            |
+| 61BNK3FMT |                       Lý thuyết tài chính tiền tệ                       |
+| 61MME4CCM |            Quản trị vấn đề và xử lý khủng hoảng truyền thông            |
+| 61FRE2GEC |                            Kinh tế Đại cương                            |
+| 61COC3LAE |                     Pháp luật và Đạo đức nghề nghiệp                    |
+| 61JAP4JVC |                      Đối chiếu Ngôn ngữ Nhật- Việt                      |
+| 62ECO2MIC |                              Kinh tế vi mô                              |
+| 61FIT3SE1 |                           Công nghệ Phần mềm 1                          |
+| 61JAP3PFL |                    Tâm lý học trong dạy học ngoại ngữ                   |
+| 62CHI3ITO |                             Nhập môn Du lịch                            |
+| 61RUS22B2 |                           Thực hành tiếng 2B2                           |
+| 61PED1VB1 |                              Bóng chuyền 1                              |
+| 61SPA3FL4 |                   Ngoại ngữ 2 - tiếng Tây Ban Nha 2B1                   |
+| 61FRE3LI1 |                        Ngôn ngữ học tiếng Pháp 1                        |
+| 61FIT2CAL |                               Toán cao cấp                              |
+| 61RUS4INT |                                 Thực tập                                |
+| 61FIN4IPM |                         Quản lý danh mục đầu tư                         |
+| 61JAP3TP1 |                          Thực hành dịch viết 1                          |
+|  MGT1OBE  |                             Hành vi tổ chức                             |
+| 62CHI4TEC |                 Biên dịch chuyên đề Kinh tế - Thương mại                |
+| 61ENG3IP1 |                               Phiên dịch 1                              |
+| 61MKT4MRE |                           Nghiên cứu Marketing                          |
+| 61PED1LJP |                                 Nhảy xa                                 |
+| 61SPA4TPD |                        Xây dựng Sản phẩm Du lịch                        |
+| 61THM3TMG |                             Quản trị lữ hành                            |
+| 61VNS2VBC |                      Tiếng Việt Thư tín thương mại                      |
+| 61ITA4INT |                                 Thực tập                                |
+| 61ENG3LAT |                         Lý thuyết Học ngoại ngữ                         |
+| 61FIT3WPR |                              Lập trình Web                              |
+| 62CHI4CTG |              Tiếng Trung Quốc dùng trong Hướng dẫn du lịch              |
+| 61VNS11A1 |                         Thực hành tiếng Việt 1A1                        |
+| 61SPA3SPL |                     Trích giảng Văn học Tây Ban Nha                     |
+| 62CHI4AUT |                             Dịch Nghe -Nhìn                             |
+| 61FIS3FPA |                      Phân tích Chính sách Đối ngoại                     |
+| 61GER3ITM |                       Nhập môn Giảng dạy tiếng Đức                      |
+| 61CHI22B2 |                           Thực hành tiếng 2B2                           |
+| 61ITA4TGS |                       Nghiệp vụ Hướng dẫn Du lịch                       |
+| 61CHI4CTO |                            Văn hóa và Du lịch                           |
+| 61GER22B2 |                           Thực hành tiếng 2B2                           |
+|  MKT2SEM  |                             Marketing xã hội                            |
+| 61ACC4AFA |                        Kế toán tài chính nâng cao                       |
+| 61VIP2HWC |                        Lịch sử Văn minh Thế giới                        |
+| 61GER4TPD |               Biên dịch chuyên ngành Chính trị, Ngoại giao              |
+| 61KOR3CSO |                           Đất nước học online                           |
+| 62KOR33C1 |                           Thực hành tiếng 3C1                           |
+| 61ENG3SCC |                Đất nước và Văn hóa các nước nói tiếng Anh               |
+| 62FIT3DBS |                              Cơ sở dữ liệu                              |
+| 61JAP4IP3 |                           Thực hành dịch nói 3                          |
+| 61MGT3IOM |                           Nhập môn vận trù học                          |
+| 62ITA1RES |                     Phương pháp Nghiên cứu khoa học                     |
+| 62ITA4IP2 |                               Phiên dịch 2                              |
+| 62KOR4TP2 |                               Biên dịch 2                               |
+| 61FIS2GIS |                        Hệ thống Thông tin Địa lý                        |
+| 61SPA4STG |               Tiếng Tây Ban Nha cho Hướng dẫn viên du lịch              |
+| 61GER33C1 |                           Thực hành tiếng 3C1                           |
+| 61ITA21B2 |                           Thực hành tiếng 1B2                           |
+| 61RUS3LI1 |                              Văn học Nga 1                              |
+| 61ITA3BUI |                         Tiếng Italia Thương mại                         |
++-----------+-------------------------------------------------------------------------+

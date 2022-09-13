@@ -1,0 +1,31 @@
+get_student_info(access_token):
+# print(json.loads(json.dumps(info.json())))
+# f = open("info.json", 'w',  encoding='utf-8')
+# f.write(json.dumps(info.json(), ensure_ascii=False, indent=4))
+# f.close()
+
+login():
+        # print("Chào mừng", json_str['name'])
+        # print("Mã sinh viên:", json_str['userName'])
+        # print("Email:", json_str['principal'])
+
+
+dang ky mon hoc:
+                with open('result_dk.json', 'w', encoding='utf-8') as f:
+            f.write(json.dumps(result_dk.json(), ensure_ascii=False, indent=4))
+
+               if not (json.load(open('result_dk.json'))['data']['is_thanh_cong']):
+            print("that bai")
+        else:
+            print("true")
+
+
+
+                    for future in concurrent.futures.as_completed(future_to_url):
+            if future.result() != 200:
+                print("Thread return with status code: " + str(future.result()))
+                print("Resubmit the request")
+                future_to_url[executor.submit(multithread_request, future_to_url[future])] = future_to_url[future]
+                # time.sleep(1)
+            else:
+                print("Successfully register:", payload_reg_dict[future_to_url[future]]['filter']['id_to_hoc'])

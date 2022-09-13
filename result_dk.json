@@ -1,0 +1,16 @@
+{
+    "data": {
+        "is_thanh_cong": false,
+        "thong_bao_loi": "Cảnh báo: tài khoản của bạn không được đăng ký/hủy đăng ký ở thời điểm hiện tại.",
+        "is_chung_nhom_mon_hoc": false,
+        "ket_qua_dang_ky": {
+            "id_kqdk": "0",
+            "ngay_dang_ky": "0001-01-01T00:00:00",
+            "is_da_rut_mon_hoc": false,
+            "enable_xoa": false,
+            "hoc_phi_tam_tinh": 0.0
+        }
+    },
+    "result": true,
+    "code": 200
+}
